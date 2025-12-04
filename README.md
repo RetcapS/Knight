@@ -23,5 +23,6 @@ Yakın dövüş saldırısı yaparak düşmanlara hasar verebilirsin.
 
 ---
 
-## 🕹️ Kurulum ve Çalıştırma
+## 🕹️ Eksikler ve Eklenecekler
+karaktere bir tane kılıç eklenecek. Çevre tasarlanacak. Rakibe agent atanıp aksiyonları gerçekleştirmesi sağlanacak.
 
